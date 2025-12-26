@@ -1,4 +1,4 @@
-package MATH;
+package Learning.MATH;
 
 public class Printf {
     public static void main(String[] args) {

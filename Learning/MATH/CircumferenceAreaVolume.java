@@ -1,4 +1,4 @@
-package MATH;
+package Learning.MATH;
 
 import java.util.Scanner;
 
