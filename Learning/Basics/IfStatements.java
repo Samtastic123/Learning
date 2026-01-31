@@ -1,4 +1,4 @@
-package Learning;
+package Learning.Basics;
 
 import java.util.Scanner;
 // if statements perform if block of code is true

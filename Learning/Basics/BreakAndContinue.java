@@ -1,4 +1,4 @@
-package Learning;
+package Learning.Basics;
 
 public class BreakAndContinue {
     public static void main(String[] args) {

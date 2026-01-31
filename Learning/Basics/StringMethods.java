@@ -1,7 +1,4 @@
-package Learning;
-
-import java.util.Locale;
-import java.util.Random;
+package Learning.Basics;
 
 public class StringMethods {
     public static void main(String[] args) {

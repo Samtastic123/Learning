@@ -1,7 +1,6 @@
-package Learning;
+package Learning.Basics;
 
 import java.util.Scanner;
-import java.util.SortedMap;
 
 public class WhileLoops {
         public static void main(String[] args) {

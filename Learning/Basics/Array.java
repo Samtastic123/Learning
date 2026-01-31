@@ -1,5 +1,4 @@
-package Learning;
-import java.util.Arrays;
+package Learning.Basics;
 
 public class Array {
     public static void main(String[] args) {
